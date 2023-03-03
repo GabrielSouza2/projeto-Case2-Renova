@@ -28,8 +28,8 @@ A operação CRUD é uma abreviação para as operações básicas de armazename
 <h2> :triangular_flag_on_post: Instalando as depedências? </h2> <ul>
  <h2> :triangular_flag_on_post: backend </h2> <ul>
   <li> npm install (para instalar todas as dependências) </li>
-<li> npm run migrate (realiza a migração para o banco de dados) </li>
-  <li> npm run seed (popula o banco de dados)</li>
+<li> npm run migrate (realizar a migração para o banco de dados) </li>
+  <li> npm run seed (popular o banco de dados)</li>
   <li> npm run clear (limpar os dados do banco)</li>
   <li> npm run drop (para apagar tudo quando houver mudanças na estrutura da tabela)</li>
   <li> npm run start </li></ul>
