@@ -11,7 +11,9 @@ Além disso, o propósito desse projeto é colocar em pratica os conhecimentos a
 .
 
 ## <h2> :closed_book: Tema escolhido</h2>
-O tema escolhido pelo nosso grupo seria uma API de doações voltada  para vitimas de desastres naturais. Sem especificação de temas, buscamos encontrar uma proposta que tenha algum um proposito social e sirva para ajudar as pessoas. 
+O tema escolhido pelo nosso grupo seria uma API de doações voltada  para vitimas de desastres naturais. Sem especificação de temas, buscamos encontrar uma proposta que tenha algum um proposito social e sirva para ajudar as pessoas. Ou seja, optamos por algo que fosse relevante e de urgencia. 
+
+O objetivo da API é proporcionar um ambiente adequado onde doadores possam disponibilizar suas doações, e os donatários possam ter acesso a esse conteudo de forma segura e eficiente. 
 
 ## <h2> :ghost: Site rodando  </h2> 
 https://youtu.be/QJr1rl6T4f4 <ul>
