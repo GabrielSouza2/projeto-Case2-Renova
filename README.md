@@ -47,8 +47,6 @@ A operação CRUD é uma abreviação para as operações básicas de armazename
   <li> npm run dev </li>
 
 
-<h2> :triangular_flag_on_post:  Quais são as rotas do projeto? <h2>
-
 # <h2> :family: Nossa Squad </h2>
 
 ![Nosso Squad](https://user-images.githubusercontent.com/112557569/221168525-b7bc67b7-4fb9-432e-92c0-325961a95316.png)
