@@ -6,7 +6,7 @@
 
 ## <h2> :dart: Objetivo </h2> 
 O projeto proposto pela Resilia era para desenvolver uma proposta de API, que seria um produto minimo viavel. Nossa API deve ser capaz de fazer requisições e implementar todas operações CRUD. 
-Além disso, o propósito desse projeto é colocar em pratica os conhecimentos adquiridos sobre backend e banco de dados. 
+Além disso, o propósito desse projeto é colocar em pratica os conhecimentos adquiridos sobre backend e banco de dados. Você pode conferir a apresentação/resumo do nosso projeto aqui: [pdf_20230303_211828_0000.pdf](https://github.com/GabrielSouza2/projeto-Case2-Renova/files/10887047/pdf_20230303_211828_0000.pdf)
 
 .
 
