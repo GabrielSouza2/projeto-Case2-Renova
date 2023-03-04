@@ -15,6 +15,10 @@ O tema escolhido pelo nosso grupo seria uma API de doações voltada  para vitim
 
 O objetivo da API é proporcionar um ambiente adequado onde doadores possam disponibilizar suas doações, e os donatários possam ter acesso a esse conteudo de forma segura e eficiente. 
 
+Nossa API foca em possibilitar doações para vitimas de desastres naturais na cidade do Rio de Janeiro, podendo atender também pessoas em situação de vulnerabilidade social. 
+
+Além disso, uma API de doações também contribui com uma agenda sustentável, de modo que evita que moveis e equipamentos em bom estado sejam descartados de forma inadequada e cheguem as pessoas que realmente precisam. 
+
 ## <h2> :ghost: Site rodando  </h2> 
 https://youtu.be/QJr1rl6T4f4 <ul>
 
